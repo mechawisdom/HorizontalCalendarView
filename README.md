@@ -27,6 +27,9 @@ Add the following dependency in your `build.gradle` file:
 
 ```
 dependencies {
+    // Kotlin DSL 
+    implementation("com.github.mechawisdom:horizontalcalendarview:1.0.0")
+    // Groovy DSL
     implementation 'com.github.mechawisdom:horizontalcalendarview:1.0.0'
 }
 ```
