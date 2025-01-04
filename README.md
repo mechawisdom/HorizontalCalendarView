@@ -2,6 +2,9 @@
 
 `HorizontalCalendarView` is a simple and customizable calendar view for Android, designed to display a horizontally scrolling calendar where users can select a date. This is perfect for date selection purposes in your app, providing an intuitive and elegant solution for date-related functionalities.
 
+![download](https://github.com/user-attachments/assets/31734d4c-6688-4541-892d-702311f7e510)
+
+
 ## Features
 - Customizable start date.
 - Easy-to-use date format parsing.
